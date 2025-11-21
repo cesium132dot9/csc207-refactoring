@@ -17,7 +17,7 @@ public class Performance {
      * A getter function for playID.
      * @return playID
      */
-    public String getplayID() {
+    public String getPlayID() {
         return this.playID;
     }
 
