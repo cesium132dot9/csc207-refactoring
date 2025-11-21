@@ -1,3 +1,4 @@
+573b3b4 Completed Task 2.2
 121b8a9 Completed Task 2.1
 3c5b3fd Refactored statement() method with a getAmount() helper method
 9b8caed Completed Task 1.2
